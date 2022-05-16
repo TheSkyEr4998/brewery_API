@@ -1,0 +1,11 @@
+#navBar{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 1%;
+}
+#navBar>a{
+    font-size: 20px;
+    text-decoration: none;
+}
